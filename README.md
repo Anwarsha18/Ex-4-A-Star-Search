@@ -52,11 +52,11 @@ for _ in range(n):
     node,h=input().split(); H[node]=int(h)
 AStar(input(),input())
 ````
-##GRAPH 
+## GRAPH 
 
 ![WhatsApp Image 2025-10-06 at 13 57 02_c28f6507](https://github.com/user-attachments/assets/b0678931-ceff-48f9-8a10-b17fac51cb26)
 
-##INPUT
+## INPUT
 ```
 3 2
 A B 1
@@ -67,7 +67,7 @@ C 0
 A
 C
 ```
-##Output
+## Output
 
 
 <img width="280" height="115" alt="image" src="https://github.com/user-attachments/assets/bf0ff3e6-0056-4260-b30a-db83dfbe70f7" />
