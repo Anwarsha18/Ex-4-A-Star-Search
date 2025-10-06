@@ -58,6 +58,7 @@ GRAPH I
 ![WhatsApp Image 2025-10-06 at 13 57 02_c28f6507](https://github.com/user-attachments/assets/b0678931-ceff-48f9-8a10-b17fac51cb26)
 
 INPUT
+```
 3 2
 A B 1
 B C 2
@@ -66,7 +67,7 @@ B 1
 C 0
 A
 C
-
+```
 Sample Output
 
 
